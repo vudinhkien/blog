@@ -1,0 +1,46 @@
+.quaylai:hover{
+	text-decoration: none;
+	opacity: 0.7
+}
+.quaylai{
+	padding: 7px 10px 7px 10px;
+   background-color: #63CC33;
+   border-radius: 0.4em;
+   float: left;
+   margin-top: 10px;
+   margin-right: 10px;
+}
+ul, ol {list-style: none;}
+form {
+	width: 300px ;
+	margin: auto;
+}
+.search{
+	margin-bottom: 10px;
+}
+thead th{
+	text-align: center;
+}
+tbody{
+	text-align: center;
+}
+button{
+	margin-top: 10px;
+}
+.delete{
+	margin-top: -2px;
+}
+input{
+	margin-top: 10px
+}
+legend{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: blue;
+	font-size: 20px;
+	font-weight: bold
+}
+.row{
+	margin: auto
+}
