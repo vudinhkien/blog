@@ -24,6 +24,7 @@ class SinhVien extends Eloquent{
 
 		return $query->paginate($limit);
 	}
+	
 
 	/*
 	 	hàm thêm sinh viên
