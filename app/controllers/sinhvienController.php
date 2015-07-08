@@ -124,7 +124,7 @@ class sinhvienController extends BaseController {
 
 	public function search(){
 		$search = $this->bangsinhvien->getPaginatedForSearch(5, Input::all());
-		return View::make('show-search', compact('search'));	
+		return View::make('showsearch', compact('search'));	
 	}
 
 }//end class

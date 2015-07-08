@@ -66,6 +66,7 @@
                </form>
 				</tr>
 				<?php } ?>
+				<a href="{{ asset('dangky') }}" class="quaylai">Đăng Ký</a>
 		   </tbody>
 			</table>
 
